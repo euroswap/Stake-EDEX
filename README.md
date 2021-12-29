@@ -1,4 +1,4 @@
-# EuroSwap.io Farming/Staking
+# EDEX Farming/Staking
 
 #### Smart Contracts
 - TODO
