@@ -1,6 +1,6 @@
 <img src="https://euroswap.io/logo.svg" align="center">  
 <br />
-# EDEX Staking
+### EDEX Staking
 
 All EDEX holders can place tokens in BEP-20 protocol Staking and steadily earn rewards of up to 152% p.a. in EDEX token. Get an additional 15% p.a. depending on the amount of your EDEX deposit. The higher the staking amount in EDEX, the higher the additional interest.
 
