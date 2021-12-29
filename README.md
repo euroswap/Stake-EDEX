@@ -1,4 +1,4 @@
-# EDEX Farming/Staking
+# EDEX Staking
 
 #### Smart Contracts
 - TODO
