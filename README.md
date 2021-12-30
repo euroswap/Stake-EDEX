@@ -11,6 +11,8 @@ In order to place your EDEX token into one of the 3 staking pools, click on the 
 #### Smart Contracts
 - TODO
 
+
+
 <img src="https://euroswap.io/github/staking.png" align="center">  
 <br />
 <img src="https://euroswap.io/github/total.png" align="center">  
