@@ -9,7 +9,9 @@ In order to place your EDEX token into one of the 3 staking pools, click on the 
 
 
 #### Smart Contracts
-- TODO
+- 12 month staking: 0xbB391ac7b36B996DbEa26c6ef3E40A4d2EC18AAC (https://bscscan.com/address/0xbB391ac7b36B996DbEa26c6ef3E40A4d2EC18AAC)
+- 9 month staking: 0x3A7338d1a2516cc2Bf5484D0e42cdf793F21F3EE (https://bscscan.com/address/0x3A7338d1a2516cc2Bf5484D0e42cdf793F21F3EE)
+- 6 month staking: 0x65E0D91d74b21B4BD39c90ECd4D6438105fa1442 (https://bscscan.com/address/0x65E0D91d74b21B4BD39c90ECd4D6438105fa1442)
 
 
 
